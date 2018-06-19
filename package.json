@@ -1,0 +1,22 @@
+{
+  "name": "jquery.validate.unobtrusive.bootstrap",
+  "version": "1.0.0",
+  "description": "jquery.validate.unobtrusive.bootstrap\r =====================================",
+  "main": "jquery.validate.unobtrusive.bootstrap.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitter/jquery.validate.unobtrusive.bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitter/jquery.validate.unobtrusive.bootstrap/issues"
+  },
+  "homepage": "https://github.com/whitter/jquery.validate.unobtrusive.bootstrap#readme"
+}

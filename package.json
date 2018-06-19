@@ -1,6 +1,6 @@
 {
   "name": "jquery.validate.unobtrusive.bootstrap",
-  "version": "1.0.0",
+  "version": "1.2.3",
   "description": "jquery.validate.unobtrusive.bootstrap\r =====================================",
   "main": "jquery.validate.unobtrusive.bootstrap.js",
   "directories": {
